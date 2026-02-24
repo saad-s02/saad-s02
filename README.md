@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saad Siddiqui</h1>
-<h3 align="center">A passionate Software Engineer from Canada attending McMaster University</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **Angular and .NET!**
+- 🌱 I’m currently learning **React and .NET!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saad-s02?tab=repositories](https://github.com/saad-s02?tab=repositories)
 
